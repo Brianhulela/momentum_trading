@@ -1,8 +1,8 @@
 # Momentum Trading Strategy with EWMA and RSI
 
-![Cover Image](https://placeholder.com/your-cover-image-link)
+![Cover Image](https://github.com/Brianhulela/momentum_trading/blob/master/TSLA_momentum_buys_and_sells.png)
 
-This project implements a momentum-based trading strategy using **Exponential Weighted Moving Averages (EWMA)** and the **Relative Strength Index (RSI)**. The primary goal is to simulate the strategy and evaluate its performance on historical stock price data.
+This project implements a momentum-based trading strategy using **Exponential Weighted Moving Averages (EWMA)** and the **Relative Strength Index (RSI)**. The primary goal is to simulate the strategy and evaluate its performance on historical stock price data. For more information and a detailed walk-through, checkout this [Medium story](https://hulela.co.za/trading-strategies-momentum-5d11f6705453).
 
 ## Overview
 In this trading strategy:
