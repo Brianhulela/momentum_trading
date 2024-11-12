@@ -29,8 +29,5 @@ The simulation includes two main plots:
 - **RSI Chart**: Shows the RSI values over time, indicating overbought/oversold levels.
 
 ## Requirements
-- **Python Libraries**: `pandas`, `matplotlib`, and `tabulate` are required to run the code.
-
-## Usage
-To run the simulation, set up the data with date-indexed closing prices, define the EWMA and RSI windows, and run the code to see the portfolio's performance based on the trading strategy.
+- **Python Libraries**: `yfinance`, `pandas`, `matplotlib`, and `tabulate` are required to run the code.
 
